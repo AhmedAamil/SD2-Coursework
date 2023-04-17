@@ -17,3 +17,5 @@ A new theatre company called ‘New Theatre’ has asked you to design and imple
 Read the above [**Coursework Specification**](https://github.com/AhmedAamil/SD2-Coursework/blob/MAIN/Coursework%20Description.pdf) for more in-depth information of the Project.
 
 [**Self-Assessment Form.pdf**](https://github.com/AhmedAamil/SD2-Coursework/blob/MAIN/Self-Assessment%20Form.pdf) includes some Test Cases and the Results.
+
+© Copyright Informatics Institute of Technology 2021
